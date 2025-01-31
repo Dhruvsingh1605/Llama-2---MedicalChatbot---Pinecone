@@ -1,0 +1,7 @@
+flask
+pypdf
+python-dotenv
+langchain
+langchain-community
+langchain-experimental
+-e .
