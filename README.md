@@ -29,3 +29,7 @@ This is a Python-based chatbot that leverages Langchain for orchestration, Groq 
 ## Install dependencies
 
 1. pip install -r requirements.txt
+
+## RUN app.py for execution
+
+1. stremlit run app.py
